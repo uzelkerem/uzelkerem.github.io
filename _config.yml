@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kerem Uzel, PhD"
+title                    : "KU"
 title_separator          : "-"
-name                     : &name "Kerem Uzel"
+name                     : &name "Kerem Uzel, PhD"
 description              : &description "Computational Neuroscientist & Molecular Biologist"
 url                      : https://uzelkerem.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
