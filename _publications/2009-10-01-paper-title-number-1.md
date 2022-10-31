@@ -8,7 +8,7 @@ along with their activity, during zebrafish spinal cord development.
 doi: 10.1016/j.cell.2019.09.006.'
 date: 2019-10-03
 venue: 'Cell'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://uzelkerem.github.io/files/Uzel2019.pdf'
 citation: 'Uzel, K. (2019). &quot;Imaging the Emergence of Behavior.&quot; <i>Cell</i>.'
 ---
 
