@@ -1,7 +1,7 @@
 ---
 title: "Imaging the Emergence of Behavior"
 collection: publications
-permalink: https://www.cell.com/cell/pdf/S0092-8674(19)31012-8.pdf
+permalink: files/Uzel2019.pdf
 excerpt: 'This is a preview about Wan et al., 2019 where they track comprehensively the development of individual neurons,
 along with their activity, during zebrafish spinal cord development.'
 date: 2019-10-03
