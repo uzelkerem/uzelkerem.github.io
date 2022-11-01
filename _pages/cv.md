@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Computational Neuroscience, University of Vienna, 2021
-  * Thesis title: "Hub architecture and high-order connectivity features support global brain dynamics in the C. elegans neuronal network"
+  * Thesis title: "Hub architecture and high-order connectivity features support global brain dynamics in the _C. elegans_ neuronal network"
 * M.Sc. in Molecular Biology & Genetics, Boğaziçi University, 2014
   * Thesis title: "Validation of the OR103-1/5 Intergenic Sequence as a Molecular Tool to Promote Bi-cistronic Translation in Zebrafish"
 * B.Sc. in Molecular Biology & Genetics, Istanbul Technical University, 2011
