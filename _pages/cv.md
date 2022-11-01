@@ -22,7 +22,7 @@ Work experience
 ======
 * October 2018 - October 2022: Doctoral Researcher
   * University of Vienna, Zimmer Lab
-  * Using an iconic model organism, C. elegans, I performed extensive experiments and analyses on multiple datasets using different approaches: i)              graph theoretical analysis of the connectome (revealing clusters, motifs, rich-club structure), ii) randomization and in silico perturbations of network maps, iii) functional analysis of neuronal time-series data (correlation, mutual information, granger causality), and iv) genetic inhibition of selected neurons (cloning constructs, generating transgenic strains, performing whole-brain calcium imaging experiments in worms). 
+  * Using an iconic model organism, _C. elegans_, I performed extensive experiments and analyses on multiple datasets using different approaches: i)graph theoretical analysis of the connectome (revealing clusters, motifs, rich-club structure), ii) randomization and in silico perturbations of network maps, iii) functional analysis of neuronal time-series data (correlation, mutual information, granger causality), and iv) genetic inhibition of selected neurons (cloning constructs, generating transgenic strains, performing whole-brain calcium imaging experiments in worms). 
     
     During this study, I frequently presented my work to a broad audience, trained PhDs and postdocs in experimental and computational techniques, and published my work in a high quality academic journal (Uzel et al., 2022, Current Biology). This work is the first comprehensive structure-to-function analysis which makes a significant contribution to the ongoing research in the field of systems neuroscience and connectomics.
 
