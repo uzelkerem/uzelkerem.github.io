@@ -9,4 +9,4 @@ The Great Gulf Crossing
 
   * 
 
-![photo](/images/BKG_english_001.jpeg)
+![photo](/images/BKG_english.jpeg)
