@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Kayaking"
+title: "Expeditions"
 permalink: /kayaking/
 author_profile: true
 ---
