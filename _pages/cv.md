@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computational Neuroscience, University of Vienna, 2021
+* Ph.D in Neuroscience, University of Vienna, 2021
   * Thesis title: "Hub architecture and high-order connectivity features support global brain dynamics in the _C. elegans_ neuronal network"
 * M.Sc. in Molecular Biology & Genetics, Boğaziçi University, 2014
   * Thesis title: "Validation of the OR103-1/5 Intergenic Sequence as a Molecular Tool to Promote Bi-cistronic Translation in Zebrafish"
@@ -34,30 +34,31 @@ Work experience
   * Boğaziçi University, FISH lab
   * Using zebrafish as a model organism, I validated the use of an intergenic sequence as a molecular tool to promote bi-cistronic translation in the olfactory neurons. This research taught me how to follow a scientific question from beginning to an end. Accordingly I gained skillsets in use of molecular biology tools and confocal microscopy techniques using the neurons as models. This work inspired me to develop an interest to pursue a PhD in neuroscience.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+====== 
+* **Uzel K.**, Kato S, Zimmer M. A set of hub neurons and non-local connectivity features support global brain dynamics in C. elegans (2022). Current Biology.
+[doi: 10.1016/j.cub.2022.06.039](https://doi.org/10.1016/j.cub.2022.06.039)
+* **Uzel K.**, Zimmer M. Imaging the Emergence of Behavior (2019). Cell. [doi: 10.1016/j.cell.2019.09.006](https://doi.org/10.1016/j.cell.2019.09.006)
+
+Scientific Proceedings & Talks
+====== 
+* **Uzel, K.**, Kato, S., Zimmer, M., Connectivity Features in _C. elegans_, CeNeuro 2022 - University of Vienna, Vienna, Austria. July 2022 (poster presentation).
+* **Uzel, K.**, Zimmer, M., From Structure to Function: Mechanisms of Coordinated Neuronal Population Dynamics in _C. elegans_, Neural Circuits - Cold Spring Harbor Laboratory, New York, USA. March 2020.
+* **Uzel, K.**, Zimmer, M., Mechanisms Underlying Coordinated Neuronal Population Dynamics in _C. elegans_, 22nd International C. elegans Conference, UCLA, California, USA. June 2019.
+* **Uzel, K.**, Zimmer, M., Mechanisms of Neuronal Population Dynamics in _C. elegans_, Austrian Neuroscience Association Meeting 2017, Klosterneuburg, Austria. November 2017 (poster presentation).
+* **Uzel, K.**, Zimmer, M., Mechanisms of Neuronal Population Dynamics, Integrated Systems Neuroscience 2017, Manchester, UK. September 2017 (poster presentation).
+* CAJAL Course in Computational Neuroscience, Lisbon, Portugal. August 2017.
+* **Uzel, K.**, Zimmer, M., Identification of Mechanisms Underlying the Coordinated Population Dynamics in _C. elegans_, Vienna Biocenter Worm Lab Retreat, Munich, Germany. November 2015.
+* **Uzel, K.**, Fuss, S.H., Validation of the OR103-1/5 Intergenic Sequence as a Molecular Tool to Promote Bi-cistronic Translation in Zebrafish, 2nd International Congress of the Molecular Biology Association of Turkey, Istanbul, Turkey. November 2013.
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Teaching Assistant - Neurobiology and Behaviour of _C. elegans_, January 2019-20-21-22
+  * Trained neuroscience master’s students whole-brain imaging experiments in worms, data acquisition of neuronal time series, data clean-up, identi cation of neuron classes and analysis of time-series data.
+* Teaching Assistant - Physiology Lab (BIO 342), Spring 2013
+  * Supervised undergrad students with physiology experiments
+* Teaching Assistant - General Biology Lab (BIO 103), Fall 2012
+  * Supervised undergrad students with basic molecular biology
+and genetics experiments
+* Teaching Assistant - Genetics Lab (BIO 252), Spring 2012
+  * Trained undergrad students genetic crosses using _Drosophila melanogaster_
