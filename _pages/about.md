@@ -13,7 +13,7 @@ The wiring architecture of neuronal networks is assumed to be a strong determina
 
 
 <p float="left">
-  <img src="/images/Figure1_uzel.jpeg" width="400" />
+  <img src="/images/Figure1_uzel.jpg" width="400" />
 </p>
 
 
