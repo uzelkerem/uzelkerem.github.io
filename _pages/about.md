@@ -16,7 +16,6 @@ The wiring architecture of neuronal networks is assumed to be a strong determina
   <img src="/images/Figure1_uzel.jpeg" width="400" />
 </p>
 
-Figure1
-======
-Figure 2. We compared the connectome (upper left) with brain interaction maps (upper right); both simplified schematics. Functional interactions between neurons are supported by GAP junctions but are best understood by connectome context, like triplet motifs and input similarities, rather than by direct connectivity (lower panels). The rich hub architecture (schematized in upper rihght panel) is crucial for establishing this context. Adapted from (Uzel, 2022, Current Biology)
+
+Figure 1. We compared the connectome (upper left) with brain interaction maps (upper right); both simplified schematics. Functional interactions between neurons are supported by GAP junctions but are best understood by connectome context, like triplet motifs and input similarities, rather than by direct connectivity (lower panels). The rich hub architecture (schematized in upper rihght panel) is crucial for establishing this context. Adapted from (Uzel, 2022, Current Biology)
 
